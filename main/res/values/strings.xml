@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">colordetectionapp</string>
+    <string name="histogram_scrollview_description">Histogram ScrollView</string>
+</resources>
